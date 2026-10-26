@@ -24,7 +24,7 @@ Tenho interesse em engenharia de software, desenvolvimento Full Stack, qualidade
 ### 🏢 CondoControlAI
 Sistema de gestão condominial com aplicativo Android, painel web, backend PHP, controle de acesso por perfis, registro de encomendas e funcionalidades de inteligência artificial.
 
-[Ver repositório](https://github.com/thiagofoztt-creator/CondoControlAI)
+[Ver repositório]([https://github.com/thiagofoztt-creator/CondoControlAI](https://github.com/thiagofoztt-creator/CondoControlAI-Portfolio))
 
 ### 🤖 Gerador de CSS com IA
 Projeto de ferramenta para auxiliar a criação de estilos CSS usando inteligência artificial.
